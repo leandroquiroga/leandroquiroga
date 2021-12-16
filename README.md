@@ -34,3 +34,4 @@
 ![sequelize_original_wordmark_logo_icon_146349](https://user-images.githubusercontent.com/80013958/146462879-c7a42257-1ea0-44bd-a301-f3d98a304d96.png)
 ![tailwindcss_logo_icon_170649](https://user-images.githubusercontent.com/80013958/146462876-eb594c26-b8e4-4474-bbd0-ae6f2b061e90.png)
 ![bootstrap_plain_logo_icon_146619](https://user-images.githubusercontent.com/80013958/146462862-46f0c517-f7d6-4bc1-a403-82c814cc3c00.png)
+![file_type_sass_icon_130182](https://user-images.githubusercontent.com/80013958/146463771-03d2cb47-88a8-45f3-bec3-c1474a9925e8.png)
