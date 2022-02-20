@@ -48,7 +48,7 @@
 <h3 align="left">Programming Languages:</h3>
 <h5 align="left">JavaScript</h5>
 <h3 align="left">Frontend Development:</h3>
-<h5 align="left">React - Bootstrap - HTML5 - CSS3 - Tailwind - Styles-Components</h5>
+<h5 align="left">React - Bootstrap - HTML5 - CSS3 - Tailwind - Styles-Components - Sass</h5>
 <h3 align="left">Backend Development:</h3>
 <h5 align="left">NodeJS - Express - MongoDB - Firebase - Sequelize</h5>
 <h3 align="left">Software:</h3>
