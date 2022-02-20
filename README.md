@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Leandro Emanuel Quiroga 
+# Hi there 👋 I'm Leandro Emanuel Quiroga 
  <img width="500px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> 
 - 👦🏻 I am 26 years old and I am a fan of drinking mate <br />
 - 👩🏻‍💻 I love programming, I'm curious, I love learning new things.<br />
