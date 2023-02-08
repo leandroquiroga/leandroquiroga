@@ -3,7 +3,7 @@
 - 👦🏻 I am 27 years old and I am a fan of drinking mate <br />
 - 👩🏻‍💻 I love programming, I'm curious, I love learning new things.<br />
 - 🏠 I’m currently living in Quilmes - Buenos Aires - Argentina <br />
-- 🔭 I’m currently working on as a Junio Engineer <br />
+- 🔭 I’m currently working on as a Junior Engineer <br />
 - 🌱 I’m currently learning Full-Stack MERN Develoment <br />
 - 📫 How to reach me: 
 <br />
